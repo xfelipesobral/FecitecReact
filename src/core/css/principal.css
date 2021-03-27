@@ -1,0 +1,20 @@
+:root {
+	--bg-color: #585858;
+	--card-color: #fff;
+	--primary-color: #333;
+	--secondary-color: #999;
+	--third-color: #ccc;
+	--font-color: #333;
+}
+
+html,
+body,
+#root,
+.App {
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	background-color: var(--bg-color);
+}
